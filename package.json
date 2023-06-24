@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@notionhq/client": "^2.2.5",
+    "@tryfabric/martian": "^1.2.4",
+    "markdown-it": "^13.0.1"
+  }
+}
